@@ -1,7 +1,10 @@
 # ptes-zh
+
 PTES Chinese Translation
+
 - 此项目是对[pentest-standard](http://www.pentest-standard.org)翻译，将英文内容翻译为中文。
-# 主页
+  
+  # 主页
 
 ## 标准的整体结构
 
@@ -11,7 +14,7 @@ PTES Chinese Translation
 
 以下是标准定义的渗透测试执行的主要部分：
 
-1. [预接触互动](./main-page/pre-engagement.md)
+1. [预接触活动](./main-page/pre-engagement.md)
 2. [情报收集]()
 3. [威胁建模]()
 4. [漏洞分析]()
