@@ -15,8 +15,8 @@ PTES Chinese Translation
     以下是标准定义的渗透测试执行的主要部分：
 
 1. [预接触活动](./main-page/pre-engagement.md)
-2. [情报收集](./Intelligence_Gathering.md)
-3. [威胁建模](./Threat_Modeling.md)
+2. [情报收集](./main-page/Intelligence_Gathering.md)
+3. [威胁建模](./main-page/Threat_Modeling.md)
 4. [漏洞分析]()
 5. [漏洞利用]()
 6. [后期利用]()
