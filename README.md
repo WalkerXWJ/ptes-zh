@@ -3,6 +3,7 @@
 PTES Chinese Translation
 
 - 此项目是对[pentest-standard](http://www.pentest-standard.org)翻译，将英文内容翻译为中文。
+- 版本：v1.0
 
 # 主页
 
