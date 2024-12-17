@@ -18,14 +18,14 @@ PTES Chinese Translation
 1. [预接触活动](./main-page/pre-engagement.md)
 2. [情报收集](./main-page/Intelligence_Gathering.md)
 3. [威胁建模](./main-page/Threat_Modeling.md)
-4. [漏洞分析]()
-5. [漏洞利用]()
+4. [漏洞分析](./Vulnerabliity_Analysis.md)
+5. [漏洞利用](./Exploitation.md)
 6. [后期利用]()
 7. [报告]()
 
     由于标准没有提供实际渗透测试的技术指南，我们还创建了技术指南来补充标准。可以通过以下链接访问技术指南：
 
-技术指南
+    [技术指南](./ptes_technical_guidelines/PTES_Technial_Guidelines.md)
 
 有关此标准的更多信息，请访问：
 
