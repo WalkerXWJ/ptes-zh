@@ -384,4 +384,4 @@
 
 在跟踪这些信息时，请确保记录时间信息。例如，如果某次扫描被侦测到，应及时得到通知，并记录当时正在进行的扫描级别。
 
-[返回一页](./../README.md)         [下一页](./Intelligence_Gathering.md)
+[返回首页](./../README.md)         [下一页](./Intelligence_Gathering.md)
