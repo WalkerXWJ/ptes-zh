@@ -31,7 +31,7 @@ PTES Chinese Translation
 
         由于标准没有提供实际渗透测试的技术指南，我们还创建了技术指南来补充标准。可以通过以下链接访问技术指南：
 
-    [技术指南](./ptes_technical_guidelines/PTES_Technial_Guidelines.md)
+    [技术指南](./ptes_technical_guidelines/PTES_Technical_Guidelines.md）
 
 有关此标准的更多信息，请访问：
 
