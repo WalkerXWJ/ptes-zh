@@ -1,4 +1,4 @@
-[返回主页](./../README.md)        [上一页](./pre-engagement.md)        [下一页](./Threat_modeling.md)
+[返回主页](./../README.md)        [上一页](./pre-engagement.md)        [下一页](./Threat_Modeling.md)
 
 # 阶段 2 情报收集（Intelligence Gathering）
 
